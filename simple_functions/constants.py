@@ -1,5 +1,5 @@
 from numpy import sqrt
-from functions1 import factorial
+from simple_functions import factorial
 from functools import cache
 
 __all__ = ['pi']
